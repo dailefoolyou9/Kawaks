@@ -207,4 +207,4 @@ Kawaks is provided as a full free version, including all features and updates wi
 Start your arcade adventure today! Download Kawaks and experience the nostalgia of classic gaming like never before.
 
 ---
-**Last updated:** 2026-11-07 22:36:00 UTC
+**Last updated:** 2026-11-08 02:12:05 UTC
